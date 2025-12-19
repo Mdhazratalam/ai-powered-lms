@@ -79,3 +79,29 @@ ai-powered-lms/
 ├── package.json
 ├── vite.config.js
 └── README.md
+
+
+---
+
+## 🏁 Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/yourusername/ai-powered-lms.git
+cd ai-powered-lms
+2️⃣ Install dependencies
+npm install
+
+3️⃣ Start development server
+npm run dev
+
+4️⃣ Open in browser
+http://localhost:5173
+
+🔐 Environment Setup (optional for AI features)
+
+Create .env and add:
+
+VITE_AI_API_KEY=your_api_key_here
+
