@@ -17,7 +17,7 @@ app.use(express.json())
 app.use(cookieParser())
 app.use(cors({
    // origin:"http://localhost:5173",
-     origin:"https://ai-powered-lms-1-sj4d.onrender.com"
+     origin:"https://ai-powered-lms-1-sj4d.onrender.com",
       
     credentials:true
 }))
