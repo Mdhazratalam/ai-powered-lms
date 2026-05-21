@@ -27,7 +27,7 @@ import SearchWithAi from './pages/SearchWithAi'
 import getAllReviews from './customHooks/getAllReviews'
 
 
-export const serverUrl = "http://localhost:5000"
+export const serverUrl = "https://ai-powered-lms-86pe.onrender.com"
 
 function App() {
   
